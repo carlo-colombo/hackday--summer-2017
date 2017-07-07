@@ -1,0 +1,24 @@
+{
+  "name": "snack-foundry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "8.1.x"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cfenv": "^1.0.4",
+    "hapi": "^16.4.3",
+    "inert": "^4.2.0",
+    "redis": "^2.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

@@ -1,0 +1,7 @@
+---
+applications:
+- name: snack-foundry-be
+  command: node index.js
+  memory: 512M
+  instances: 1
+  random-route: true
